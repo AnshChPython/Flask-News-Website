@@ -1,0 +1,17 @@
+{
+
+  "params":
+          {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/news",
+    "prod_uri": "mysql://root:@localhost/news",
+    "fb_url": "www.facebook.com",
+    "twitter_url": "www.x.com",
+    "github_uri": "www.github.com",
+    "website_name": "ABC News",
+    "tag_line": "Proud to be Indian - Made by Indians",
+    "gmail-id": "gaschaudhary@gmail.com",
+     "gmail-password": "g6a29s18"
+  }
+
+}
